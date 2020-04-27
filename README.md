@@ -42,8 +42,8 @@ normalize = transforms.Normalize(mean=[0.485, 0.456, 0.406],
 You may also choose to download them manually by the links listed below.)
 
 ## Pretrained models
-| model |#Params | MAdds | FLOPs |top-1 error| top-5 error| Link 1 | Link 2 |
-| :--: | :--: | :--: | :--: | :--: | :--: | :--: |
+| model |#Params | MAdds | FLOPs |top-1 error| top-5 error | Link 1 | Link 2 |
+| :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: |
 | SCNet-50  | 25.56M | 4.0G | 7.9G  | 22.19 | 6.08 |[GoogleDrive](https://drive.google.com/open?id=1rA266TftaUymbtPTVHCJYoxDwl6K4gLr) | [BaiduYun](https://pan.baidu.com/s/13js74yBkCsGAFx6N8ki7UA) password: **95p5**
 | SCNet-101 | 44.57M | 7.2G | 14.4G | 21.06 | 5.75 |[GoogleDrive](https://drive.google.com/open?id=11-rW7l9vl-HGrOoCktEjRBPxMeKw334x) | [BaiduYun](https://pan.baidu.com/s/1qtwTxKbhzdxYqADsbgCcpQ) password: **38oh**
 
