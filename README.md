@@ -1,5 +1,5 @@
 # SCNet
-The official pytorch implemention of CVPR 2020 paper ["Improving Convolutional Networks with Self-Calibrated Convolutions"](http://mftp.mmcheng.net/Papers/20cvprSCNet.pdf)
+The official PyTorch implementation of CVPR 2020 paper ["Improving Convolutional Networks with Self-Calibrated Convolutions"](http://mftp.mmcheng.net/Papers/20cvprSCNet.pdf)
 
 ## Introduction
 we present a novel self-calibrated convolution that explicitly expands fields-of-view of each convolutional layer
