@@ -47,7 +47,7 @@ You may also choose to download them manually by the links listed below.)
 | SCNet-50  | 25.56M | 4.0G | 7.9G  | 22.19 | 6.08 |[GoogleDrive](https://drive.google.com/open?id=1rA266TftaUymbtPTVHCJYoxDwl6K4gLr) | [BaiduYun](https://pan.baidu.com/s/13js74yBkCsGAFx6N8ki7UA) password: **95p5**
 | SCNet-101 | 44.57M | 7.2G | 14.4G | 21.06 | 5.75 |[GoogleDrive](https://drive.google.com/open?id=11-rW7l9vl-HGrOoCktEjRBPxMeKw334x) | [BaiduYun](https://pan.baidu.com/s/1qtwTxKbhzdxYqADsbgCcpQ) password: **38oh**
 
-## Applications
+## Applications (coming soon...)
 Other applications such as Classification, Instance segmentation, Object detection, Semantic segmentation, and Human keypoint detection can be found on https://mmcheng.net/scconv/.
 
 ## Citation
