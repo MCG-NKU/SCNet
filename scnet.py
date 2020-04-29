@@ -9,7 +9,7 @@ __all__ = ['SCNet', 'scnet50', 'scnet101']
 
 
 model_urls = {
-    'scnet50': 'https://backseason.oss-cn-beijing.aliyuncs.com/scnet/scnet101-44c5b751.pth',
+    'scnet50': 'https://backseason.oss-cn-beijing.aliyuncs.com/scnet/scnet50-dc6a7e87.pth',
     'scnet101': 'https://backseason.oss-cn-beijing.aliyuncs.com/scnet/scnet101-44c5b751.pth',
 }
 
