@@ -65,7 +65,7 @@ We use Faster R-CNN architecture with feature pyramid networks (FPNs) as baselin
 | ResNet-101 | 39.9 | 61.2 | 43.5 | 23.5 | 43.9 | 51.7 | 
 | SCNet-101 | 42.0 | 63.7 | 45.5 | 24.4 | 46.3 | 54.6 | 
 
-### Object detection
+### Instance segmentation
 We use Mask R-CNN architecture with feature pyramid networks (FPNs) as baselines. We adopt the widely used [mmdetection](https://github.com/open-mmlab/mmdetection) framework to run all our experiments. Performances are reported on the COCO minival set.
 | backbone | AP | AP.5 | AP.75 | APs | APm | APl |
 | :--: | :--: | :--: | :--: | :--: | :--: | :--: |
